@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">mortgages abc</string>
+    <string name="action_settings">Settings</string>
+    <string name="monthly_payment_prompt">Monthly payment:&#160;&#160;</string>
+    <string name="total_payments_prompt">Total payments:&#160;&#160;</string>
+    <string name="home">Home</string>
+    <string name="resetbar">Reset</string>
+    <string name="search">Search</string>
+    <string name="err_msg_name">Enter valid amount</string>
+    <string name="err_msg_email">Enter valid Rate</string>
+    <string name="err_msg_password">Enter vaild years</string>
+
+
+</resources>
